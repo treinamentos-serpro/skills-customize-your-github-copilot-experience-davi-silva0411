@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "recursive-searching-and-sorting",
+      "title": "Recursive Searching and Sorting",
+      "description": "Use recursion and abstraction to implement binary search and merge sort in Python",
+      "path": "assignments/recursive-searching-and-sorting",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
